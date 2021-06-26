@@ -1,0 +1,16 @@
+C:\Users\Mateus Santos\Documents\Programação\Digital Inovation\BootcampDigital\Projeto\bin\Debug\net5.0\Projeto.exe
+C:\Users\Mateus Santos\Documents\Programação\Digital Inovation\BootcampDigital\Projeto\bin\Debug\net5.0\Projeto.deps.json
+C:\Users\Mateus Santos\Documents\Programação\Digital Inovation\BootcampDigital\Projeto\bin\Debug\net5.0\Projeto.runtimeconfig.json
+C:\Users\Mateus Santos\Documents\Programação\Digital Inovation\BootcampDigital\Projeto\bin\Debug\net5.0\Projeto.runtimeconfig.dev.json
+C:\Users\Mateus Santos\Documents\Programação\Digital Inovation\BootcampDigital\Projeto\bin\Debug\net5.0\Projeto.dll
+C:\Users\Mateus Santos\Documents\Programação\Digital Inovation\BootcampDigital\Projeto\bin\Debug\net5.0\ref\Projeto.dll
+C:\Users\Mateus Santos\Documents\Programação\Digital Inovation\BootcampDigital\Projeto\bin\Debug\net5.0\Projeto.pdb
+C:\Users\Mateus Santos\Documents\Programação\Digital Inovation\BootcampDigital\Projeto\obj\Debug\net5.0\Projeto.csprojAssemblyReference.cache
+C:\Users\Mateus Santos\Documents\Programação\Digital Inovation\BootcampDigital\Projeto\obj\Debug\net5.0\Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateus Santos\Documents\Programação\Digital Inovation\BootcampDigital\Projeto\obj\Debug\net5.0\Projeto.AssemblyInfoInputs.cache
+C:\Users\Mateus Santos\Documents\Programação\Digital Inovation\BootcampDigital\Projeto\obj\Debug\net5.0\Projeto.AssemblyInfo.cs
+C:\Users\Mateus Santos\Documents\Programação\Digital Inovation\BootcampDigital\Projeto\obj\Debug\net5.0\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Mateus Santos\Documents\Programação\Digital Inovation\BootcampDigital\Projeto\obj\Debug\net5.0\Projeto.dll
+C:\Users\Mateus Santos\Documents\Programação\Digital Inovation\BootcampDigital\Projeto\obj\Debug\net5.0\ref\Projeto.dll
+C:\Users\Mateus Santos\Documents\Programação\Digital Inovation\BootcampDigital\Projeto\obj\Debug\net5.0\Projeto.pdb
+C:\Users\Mateus Santos\Documents\Programação\Digital Inovation\BootcampDigital\Projeto\obj\Debug\net5.0\Projeto.genruntimeconfig.cache
